@@ -1,3 +1,5 @@
+export { ExpandMore, Menu } from 'styled-icons/material'
+
 export {
   Home,
   Notifications,
@@ -5,5 +7,6 @@ export {
   FavoriteBorder,
   ExitToApp,
   LocationOn,
-  Search,
+  Search
 } from 'styled-icons/material-outlined'
+// export { Menu } from 'styled-icons/boxicons-regular'

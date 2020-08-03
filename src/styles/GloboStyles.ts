@@ -20,10 +20,11 @@ export default createGlobalStyle`
   :root {
     --primary: #36393f;
     --secondary: #2f3136;
-    --tertiary: rgb(32,34,37);
+    --tertiary: #0078d4;
     --quaternary: #292b2f;
     --quinary: #393d42;
     --senary: #828386;
+    --menu: #f9f9f9;
 
     --white: #fff;
     --gray: #8a8c90;
